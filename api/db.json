@@ -1,0 +1,24 @@
+{
+  "directories": [
+    {
+      "id": 1,
+      "name": "Somchai Haha",
+      "tel": "0812345678"
+    },
+    {
+      "id": 2,
+      "name": "Somsree Hehe",
+      "tel": "0898765432"
+    },
+    {
+      "id": 3,
+      "name": "Somset Haha",
+      "tel": "0811111111"
+    },
+    {
+      "name": "Koala",
+      "tel": 123456,
+      "id": 4
+    }
+  ]
+}
